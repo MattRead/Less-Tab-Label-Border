@@ -1,0 +1,11 @@
+[Epiphany Extension]
+Name=Less Tab Label Border
+Description=Less border around tab labels
+Authors=Stefan Stuhr, MattRead
+Version=1
+URL=http://www.sstuhr.dk/epiphany-extensions/
+
+
+[Loader]
+Type=seed
+Module=tablabelborder
