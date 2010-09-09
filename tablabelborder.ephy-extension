@@ -3,7 +3,7 @@ Name=Less Tab Label Border
 Description=Less border around tab labels
 Authors=Stefan Stuhr, MattRead
 Version=1
-URL=http://mattread.org/epiphany:tabborder
+URL=http://github.com/MattRead/Less-Tab-Label-Border
 
 
 [Loader]

@@ -1,6 +1,11 @@
-Less Tab Label Border
-Originally by Stefan Stuhr
-Ported to Seed by Matt Read
+Less Tab Label Border, 2010
+Originally by Stefan Stuhr, orted to Seed by Matt Read
+http://github.com/MattRead/Less-Tab-Label-Border
 
+This piphany extension makes less border around tab labels. Sets the border to 1 pixel
+to save some space.
 
-Less border around tab labels. Sets the border to 1 pixel.
+INSTALLATION
+
+Just copy `tablabelborder.js` and `tablabelborder.ephy-extension` to `~/.gnome2/epiphany/extensions/`.
+Then enable the extension in the Extension Manager.
